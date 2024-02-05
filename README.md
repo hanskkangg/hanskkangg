@@ -1,4 +1,4 @@
-![github-header-image (9)](https://github.com/hanskkangg/hanskkang/assets/156132740/afeb1d9b-55d5-4f1e-a217-f3827f71d4cf)
+![github-header-image (9)](https://github.com/hanskkangg/hanskkangg/assets/156132740/28e3146f-8b75-4527-9859-c2001d09805e)
 
 <h3 align="center">Computer Programming Student at Algonquin College</h3>
 
