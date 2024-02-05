@@ -19,10 +19,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
 - <b>Web Developper - First Portfolio (HTML,CSS,Java script) </b>
   - [First Portfolio (HTML,CSS,Java Script](https://github.com/hanskkangg/Web_First_Portfolio)
 - <b>Database - Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)</b>
-  - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess]([https://github.com/joshmadakor1/Sentinel-Lab)](https://github.com/hanskkangg/Database_Piano_Service)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess](https://github.com/hanskkangg/Database_Piano_Service)
 - <b>Linux Program - Bash/VIM script</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
