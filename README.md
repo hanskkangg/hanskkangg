@@ -26,7 +26,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and
   - [Metal_Rod](https://github.com/hanskkangg/Java)
 - <b>Database</b>
   - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)](https://github.com/hanskkangg/Database_Piano_Service)
-- <b>Database Analysist</b>
+- <b>Database Analysts</b>
   - [Breast_Cancer_Database_Analyst](https://github.com/hanskkangg/Database_Analysis_Breast_Cancer)
 - <b>Linux Program</b>
   - [Bash Scripts](https://github.com/hanskkangg/Linux)
