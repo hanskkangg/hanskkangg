@@ -17,6 +17,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
 - <b>Web Developper - Online Shopping Mall (HTML,CSS,Java script,PHP,mariaDB,Xampp,phpmyadmin) </b>
   - [Online Shopping Mall(HTML,CSS,Java script,PHP,mariaDB,Xampp,phpmyadmin)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
 - <b>Web Developper - First Portfolio (HTML,CSS,Java script) </b>
+- [First Portfolio (HTML,CSS,Java Script](https://github.com/hanskkangg/Web_First_Portfolio)
 - <b>Database - Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
