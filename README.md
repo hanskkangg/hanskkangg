@@ -24,7 +24,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
   - [MyHealthData](https://github.com/hanskkangg/Java)
   - [Linked_List](https://github.com/hanskkangg/Java)
   - [Metal_Rod](https://github.com/hanskkangg/Java)
-- <b>Database (SSMS, mySQL, Oracle, ODBC, msAccess)</b>
+- <b>Database)</b>
   - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)](https://github.com/hanskkangg/Database_Piano_Service)
 - <b>Database Analysist</b>
   - [Breast_Cancer_Database_Analyst](https://github.com/hanskkangg/Database_Analysis_Breast_Cancer)
