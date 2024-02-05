@@ -18,7 +18,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
   - [Online Shopping Mall(HTML,CSS,Java script,PHP,mariaDB,Xampp,phpmyadmin)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
   - [First Portfolio (HTML,CSS,Java Script)](https://github.com/hanskkangg/Web_First_Portfolio)
   - [New Portfolio (Currently Working)](https://github.com/hanskkangg/Web_New_Portfolio)
--<b>Java</b>
+- <b>Java</b>
   - [SOLID_Principles](https://github.com/hanskkangg/Java)
   - [Exception Handling](https://github.com/hanskkangg/Java)
   - [MyHealthData](https://github.com/hanskkangg/Java)
