@@ -15,7 +15,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Full Stack Web - Online Shopping Mall (HTML,CSS,Java script,PHP) </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/hanskkangg/Web_Online_Shopping_Mall))
 - <b>Database - Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
