@@ -34,7 +34,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and
 <h2> 🤳 Connect with me:</h2>
 <a href="[https://linkedin.com/in/notyet](https://www.linkedin.com/in/hans-kang-4335132b2/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="notyet" height="30" width="40" /></a>
 </p>
-[linkedin]: [https://linkedin.com/in/Hanskkang](https://www.linkedin.com/in/hans-kang-4335132b2/)
+[linkedin]: (https://www.linkedin.com/in/hans-kang-4335132b2/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
