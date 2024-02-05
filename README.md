@@ -15,8 +15,8 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Web Developper</b>
-  - [First Portfolio (HTML,CSS,Java Script)](https://github.com/hanskkangg/Web_First_Portfolio)
-  - [Online Shopping Mall (HTML,CSS,Java script,PHP,mariaDB,Xampp,phpmyadmin)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
+  - [First Portfolio (HTML,CSS,JavaScript)](https://github.com/hanskkangg/Web_First_Portfolio)
+  - [Online Shopping Mall (HTML, CSS, JavaScript, PHP, mariaDB, Xampp, phpmyadmin)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
   - [New Portfolio (Currently Working)](https://github.com/hanskkangg/Web_New_Portfolio)
 - <b>Java</b>
   - [SOLID_Principles](https://github.com/hanskkangg/Java)
@@ -25,7 +25,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
   - [Linked_List](https://github.com/hanskkangg/Java)
   - [Metal_Rod](https://github.com/hanskkangg/Java)
 - <b>Database (SSMS, mySQL, Oracle, ODBC, msAccess)</b>
-  - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess](https://github.com/hanskkangg/Database_Piano_Service)
+  - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)](https://github.com/hanskkangg/Database_Piano_Service)
 - <b>Database Analysist</b>
   - [Breast_Cancer_Database_Analyst](https://github.com/hanskkangg/Database_Analysis_Breast_Cancer)
 - <b>Linux Program</b>
