@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 <br><br>
-I'm a trilingual (English, French - BBB Level, and native Korean) full-stack developer and software developer who is passionate and highly motivated. Explore my work and let's connect!
+I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and software developer who is passionate and highly motivated. Explore my work and let's connect!
 - <i>Currently:</i> Computer Programming - Algonquin College (GPA: 3.71 / Dean's Honor List)
 
   
