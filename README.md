@@ -35,7 +35,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and
 </p>
 
 </p>
-[linkedin]: (https://www.linkedin.com/in/hansKkang)
+[linkedin](https://www.linkedin.com/in/hansKkang)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
