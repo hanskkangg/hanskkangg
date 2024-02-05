@@ -2,8 +2,10 @@
 
 <h3 align="center">Computer Programming Student at Algonquin College</h3>
 
-Welcome to my GitHub! I'm a trilingual (English, French - BBB Level, and native Korean), full-stack developer, and software engineer. Passionate and highly motivated. Explore my work and let's connect!
-- <i>Currently:</i> Computer Programming - Algonquin College, GPA: 3.71, Dean's Honor List
+Welcome to my GitHub!
+<br>
+I'm a trilingual (English, French - BBB Level, and native Korean) full-stack developer and software developer who is passionate and highly motivated. Explore my work and let's connect!
+- <i>Currently:</i> Computer Programming - Algonquin College (GPA: 3.71 / Dean's Honor List)
 
   
 <h2 align="left">💪Languages and Tools:</h2>
