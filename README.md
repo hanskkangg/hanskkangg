@@ -20,10 +20,8 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
   - [New Portfolio (Currently Working)](https://github.com/hanskkangg/Web_New_Portfolio)
 - <b>Database - Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)</b>
   - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess](https://github.com/hanskkangg/Database_Piano_Service)
-- <b>Linux Program - Bash/VIM script</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Linux Program - Bash script</b>
+  - [Bash Scripts](https://github.com/hanskkangg/Linux)
 - <b>Java</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
