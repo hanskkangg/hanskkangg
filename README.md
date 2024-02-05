@@ -23,7 +23,11 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
 - <b>Linux Program</b>
   - [Bash Scripts](https://github.com/hanskkangg/Linux)
 - <b>Java</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [SOLID_Principles](https://github.com/hanskkangg/Java)
+  - [Exception Handling]
+  - [MyHealthData]
+  - [Linked_List]
+  - [Metal_Rod]
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
