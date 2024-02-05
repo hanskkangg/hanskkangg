@@ -20,7 +20,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
   - [New Portfolio (Currently Working)](https://github.com/hanskkangg/Web_New_Portfolio)
 - <b>Database - Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)</b>
   - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess](https://github.com/hanskkangg/Database_Piano_Service)
-- <b>Linux Program - Bash script</b>
+- <b>Linux Program</b>
   - [Bash Scripts](https://github.com/hanskkangg/Linux)
 - <b>Java</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
