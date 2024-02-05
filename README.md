@@ -30,9 +30,10 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and
   - [Breast_Cancer_Database_Analyst](https://github.com/hanskkangg/Database_Analysis_Breast_Cancer)
 - <b>Linux Program</b>
   - [Bash Scripts](https://github.com/hanskkangg/Linux)
-
 <h2> 🤳 Connect with me:</h2>
-<a href="[https://linkedin.com/in/notyet](https://www.linkedin.com/in/hansKkang/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="notyet" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hansKkang" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="notyet" height="30" width="40" /></a>
+</p>
+
 </p>
 [linkedin]: (https://www.linkedin.com/in/hansKkang)
 
