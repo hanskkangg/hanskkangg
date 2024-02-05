@@ -14,10 +14,10 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack dev
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Web Developper - Online Shopping Mall (HTML,CSS,Java script,PHP,mariaDB,Xampp,phpmyadmin) </b>
+- <b>Web Developper</b>
   - [Online Shopping Mall(HTML,CSS,Java script,PHP,mariaDB,Xampp,phpmyadmin)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
-- <b>Web Developper - First Portfolio (HTML,CSS,Java script) </b>
-  - [First Portfolio (HTML,CSS,Java Script](https://github.com/hanskkangg/Web_First_Portfolio)
+  - [First Portfolio (HTML,CSS,Java Script)](https://github.com/hanskkangg/Web_First_Portfolio)
+  - [New Portfolio (Currently Working)](https://github.com/hanskkangg/Web_New_Portfolio)
 - <b>Database - Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)</b>
   - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess](https://github.com/hanskkangg/Database_Piano_Service)
 - <b>Linux Program - Bash/VIM script</b>
