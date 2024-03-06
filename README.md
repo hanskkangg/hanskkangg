@@ -24,6 +24,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and
   - [MyHealthData](https://github.com/hanskkangg/Java)
   - [Linked_List](https://github.com/hanskkangg/Java)
   - [Metal_Rod](https://github.com/hanskkangg/Java)
+  - [Student_Enrollment_Management_System](https://github.com/hanskkangg/Student_Enrollment_Management_System)
 - <b>Database</b>
   - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)](https://github.com/hanskkangg/Database_Piano_Service)
 - <b>Database Analysts</b>
