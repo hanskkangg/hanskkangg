@@ -19,12 +19,10 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and
   - [Online Shopping Mall (HTML, CSS, JavaScript, PHP, mariaDB, Xampp, phpmyadmin)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
   - [New Portfolio (Work in Progress)](https://github.com/hanskkangg/Web_New_Portfolio)
 - <b>Java</b>
-  - [SOLID_Principles](https://github.com/hanskkangg/Java)
-  - [Exception Handling](https://github.com/hanskkangg/Java)
-  - [MyHealthData](https://github.com/hanskkangg/Java)
-  - [Linked_List](https://github.com/hanskkangg/Java)
-  - [Metal_Rod](https://github.com/hanskkangg/Java)
   - [Student_Enrollment_Management_System](https://github.com/hanskkangg/Student_Enrollment_Management_System)
+  - [Library_Management_System](https://github.com/hanskkangg/library_management_system)
+  - [Vehicle_Management_System](https://github.com/hanskkangg/vehicle_management_system)
+  - [Java_Miscellanous_Project](https://github.com/hanskkangg/java_miscellaneous_project)
 - <b>Database</b>
   - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)](https://github.com/hanskkangg/Database_Piano_Service)
 - <b>Database Analysts</b>
