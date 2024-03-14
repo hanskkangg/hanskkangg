@@ -25,8 +25,10 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and
   - [Java_Miscellanous_Project](https://github.com/hanskkangg/java_miscellaneous_project)
 - <b>Database</b>
   - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)](https://github.com/hanskkangg/Database_Piano_Service)
-- <b>Database Analysts</b>
+- <b>Database Analysts - Weka 3.8.6</b>
   - [Breast_Cancer_Database_Analyst](https://github.com/hanskkangg/Database_Analysis_Breast_Cancer)
+- <b>Machine Learning - RapidMiner_Studio</b>
+  - [Machine_Learning_Survival_of_Titanic_Passengers](https://github.com/hanskkangg/machine_learning_survival_of_titanic_passengers)
 - <b>Linux Program</b>
   - [Bash Scripts](https://github.com/hanskkangg/Linux)
 <h2> 🤳 Connect with me:</h2>
