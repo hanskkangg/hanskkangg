@@ -19,6 +19,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and
   - [Online Shopping Mall (HTML, CSS, JavaScript, PHP, mariaDB, Xampp, phpmyadmin)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
   - [New Portfolio (Work in Progress)](https://github.com/hanskkangg/Web_New_Portfolio)
 - <b>Java</b>
+  - [Food Waste Reduction Platform](https://github.com/hanskkangg/java_food_waste_reduction_platform))
   - [Student_Enrollment_Management_System](https://github.com/hanskkangg/Student_Enrollment_Management_System)
   - [Library_Management_System](https://github.com/hanskkangg/library_management_system)
   - [Vehicle_Management_System](https://github.com/hanskkangg/vehicle_management_system)
@@ -29,6 +30,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and
   - [Breast_Cancer_Database_Analyst](https://github.com/hanskkangg/Database_Analysis_Breast_Cancer)
 - <b>Machine Learning - RapidMiner_Studio</b>
   - [Machine_Learning_Survival_of_Titanic_Passengers](https://github.com/hanskkangg/machine_learning_survival_of_titanic_passengers)
+  - [Ottawa_Traffic_Light](https://github.com/hanskkangg/machine_learning_ottawa_traffic_light)
 - <b>Linux Program</b>
   - [Bash Scripts](https://github.com/hanskkangg/Linux)
 <h2> 🤳 Connect with me:</h2>
