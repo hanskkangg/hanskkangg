@@ -7,7 +7,7 @@ Welcome to my GitHub!
 I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and software developer who is passionate and highly motivated. Explore my work and let's connect!
 
 - 🌱 **Currently:** Computer Programming - Algonquin College (GPA: 3.71 / Dean's Honor List)  
-- 🚀 **Personal Web App:**[Hans Kang Personal Portfolio](https://HansKang.com/) / [HansDevHub on Azure](https://hansdevhub-cxa3cba5hmhdhyb0.canadacentral-01.azurewebsites.net/)
+- 🚀 **Personal Web App:**[Hans Kang Personal Portfolio](https://hanskang.com/) / [HansDevHub on Azure](https://hansdevhub-cxa3cba5hmhdhyb0.canadacentral-01.azurewebsites.net/)
   
 <h2 align="left">💪 Languages and Tools:</h2>
 
