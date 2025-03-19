@@ -7,7 +7,7 @@ Welcome to my GitHub!
 I'm a trilingual (English, French - BBB Level, and native Korean) full-stack and software developer who is passionate and highly motivated. Explore my work and let's connect!
 
 - 🌱 **Currently:** Computer Programming - Algonquin College (GPA: 3.71 / Dean's Honor List)  
-- 🚀 **Personal Web App:**[Hans Kang Personal Portfolio](https://hanskang.com/) / [HansDevHub on Azure](https://hansdevhub-cxa3cba5hmhdhyb0.canadacentral-01.azurewebsites.net/)
+- 🚀 **Personal Web App:**[Hans Kang Personal Portfolio](https://hanskang.com/)
   
 <h2 align="left">💪 Languages and Tools:</h2>
 
@@ -31,7 +31,6 @@ HTML | CSS | JavaScript | PHP | Node.js | Java | SQL | MySQL | Oracle | MongoDB 
 - **Web Development:**  
   - 🌐 [Azure Web Apps](https://hansdevhub-cxa3cba5hmhdhyb0.canadacentral-01.azurewebsites.net/)
   - 🛍️ [Online Shopping Mall (HTML, CSS, JavaScript, PHP, mariaDB, Xampp)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
-  - 💻 [First Portfolio (HTML, CSS, JavaScript)](https://github.com/hanskkangg/Web_First_Portfolio)  
 
 - <b>Java</b>
   - [Food Waste Reduction Platform](https://github.com/hanskkangg/java_food_waste_reduction_platform))
