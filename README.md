@@ -119,8 +119,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hanskkang/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://hanskang.com/)  
 
-</p>
-Linkedin: https://www.linkedin.com/in/hansKkang
+---
 
 
 ⚡ *Always open to collaborating on exciting new projects!*  
