@@ -1,5 +1,4 @@
 ![github-header-image (9)](https://github.com/hanskkangg/hanskkangg/assets/156132740/28e3146f-8b75-4527-9859-c2001d09805e)
-![GitHub Header](https://github.com/hanskkangg/hanskkangg/assets/156132740/28e3146f-8b75-4527-9859-c2001d09805e)
 
 <h3 align="center">Full-Stack Developer | AI & Web Enthusiast 🚀</h3>
 
