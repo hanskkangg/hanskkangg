@@ -86,40 +86,44 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 
 ---
 
-## 📬 Connect with Me:
+
+## 👨‍💻 PREVIOUS EDUCATIONAL PROJECTS:
+
+### **Web Development:**
+- 🌐 [Azure Web Apps](https://hansdevhub-cxa3cba5hmhdhyb0.canadacentral-01.azurewebsites.net/)
+- 🛍️ [Online Shopping Mall (HTML, CSS, JavaScript, PHP, MariaDB, XAMPP)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
+
+### **Java Projects:**
+- 🍽️ [Food Waste Reduction Platform](https://github.com/hanskkangg/java_food_waste_reduction_platform)
+- 🎓 [Student Enrollment Management System](https://github.com/hanskkangg/Student_Enrollment_Management_System)
+- 📚 [Library Management System](https://github.com/hanskkangg/library_management_system)
+- 🚗 [Vehicle Management System](https://github.com/hanskkangg/vehicle_management_system)
+- 🔧 [Java Miscellaneous Projects](https://github.com/hanskkangg/java_miscellaneous_project)
+
+### **Database Projects:**
+- 🎹 [Piano Tuning Service Appointment (SSMS, MySQL, Oracle, ODBC, MS Access)](https://github.com/hanskkangg/Database_Piano_Service)
+
+### **Database Analysis - Weka 3.8.6**
+- 🏥 [Breast Cancer Database Analysis](https://github.com/hanskkangg/Database_Analysis_Breast_Cancer)
+
+### **Machine Learning - RapidMiner Studio**
+- 🚢 [Survival Analysis of Titanic Passengers](https://github.com/hanskkangg/machine_learning_survival_of_titanic_passengers)
+- 🚦 [Ottawa Traffic Light Prediction](https://github.com/hanskkangg/machine_learning_ottawa_traffic_light)
+
+### **Linux & Bash Scripting**
+- 🖥️ [Bash Scripts & Automation](https://github.com/hanskkangg/Linux)
+
+---
+
+## 🤳 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hanskkang/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://hanskang.com/)  
 
-⚡ *Always open to collaborating on exciting new projects!*  
-
-
-<h2>👨‍💻 Projects:</h2>
-
-- **Web Development:**  
-  - 🌐 [Azure Web Apps](https://hansdevhub-cxa3cba5hmhdhyb0.canadacentral-01.azurewebsites.net/)
-  - 🛍️ [Online Shopping Mall (HTML, CSS, JavaScript, PHP, mariaDB, Xampp)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
-
-- <b>Java</b>
-  - [Food Waste Reduction Platform](https://github.com/hanskkangg/java_food_waste_reduction_platform))
-  - [Student_Enrollment_Management_System](https://github.com/hanskkangg/Student_Enrollment_Management_System)
-  - [Library_Management_System](https://github.com/hanskkangg/library_management_system)
-  - [Vehicle_Management_System](https://github.com/hanskkangg/vehicle_management_system)
-  - [Java_Miscellanous_Project](https://github.com/hanskkangg/java_miscellaneous_project)
-- <b>Database</b>
-  - [Piano Tunning Service Appointment (SSMS, mySQL, Oracle, ODBC, msAccess)](https://github.com/hanskkangg/Database_Piano_Service)
-- <b>Database Analysts - Weka 3.8.6</b>
-  - [Breast_Cancer_Database_Analyst](https://github.com/hanskkangg/Database_Analysis_Breast_Cancer)
-- <b>Machine Learning - RapidMiner_Studio</b>
-  - [Machine_Learning_Survival_of_Titanic_Passengers](https://github.com/hanskkangg/machine_learning_survival_of_titanic_passengers)
-  - [Ottawa_Traffic_Light](https://github.com/hanskkangg/machine_learning_ottawa_traffic_light)
-- <b>Linux Program</b>
-  - [Bash Scripts](https://github.com/hanskkangg/Linux)
-<h2> 🤳 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/hansKkang" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="notyet" height="30" width="40" /></a>
-</p>
-
 </p>
 Linkedin: https://www.linkedin.com/in/hansKkang
+
+
+⚡ *Always open to collaborating on exciting new projects!*  
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
