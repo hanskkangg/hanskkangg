@@ -71,11 +71,9 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - **Features:** AI wrapper using GPT-4 Turbo, RAG-based context retrieval, optimized document storage  
 
 ### **2️⃣ Freelance - E-commerce Websites**
-🔗 [Visit Baeyond Nails - LIVE](https://baeyondfrontend.vercel.app/)  
-📁 [Visit Github Repo](https://github.com/hanskkangg/baeyond)
+🔗 [Visit Baeyond Nails - LIVE](https://baeyondfrontend.vercel.app/) 📁 [Visit Github Repo](https://github.com/hanskkangg/baeyond)
 
-🔗 [Visit OnPapier - LIVE](https://www.onpapier.com/)
-📁 [Visit Github Repo](https://github.com/hanskkangg/E-Com)
+🔗 [Visit OnPapier - LIVE](https://www.onpapier.com/) 📁 [Visit Github Repo](https://github.com/hanskkangg/E-Com)
 - **Tech:** React, Node.js, Express.js, Tailwind CSS, MongoDB, Firebase, Vercel  
 - **Features:** Secure payments (Stripe, PayPal), admin dashboard, file uploads with Multer & Cloudinary  
 
