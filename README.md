@@ -66,6 +66,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 
 ### **1️⃣ AI-Powered PDF Translator**
 🔗 [Visit AI-Powered PDF Translator](https://www.aisejong.com)  
+https://github.com/hanskkangg/ai_wrapper_pdf_reader
 - **Tech:** Next.js, TypeScript, OpenAI API, Pinecone, PostgreSQL, Drizzle ORM, AWS S3  
 - **Features:** AI wrapper using GPT-4 Turbo, RAG-based context retrieval, optimized document storage  
 
