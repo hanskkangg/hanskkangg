@@ -82,7 +82,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - **Features:** RBAC (Admin/User), Google Auth, JWT Authentication, Web3Forms for contact
   
 ### **4️⃣ Personal Portfolio Web site**
-🔗 [Visit Portfolio - LIVE](https://hanskang.com) 📁 [Visit Github Repo](https://github.com/hanskkangg/portfolio_25March).
+🔗 [Visit Current Portfolio - LIVE](https://hanskang.com) 📁 [Visit Github Repo](https://github.com/hanskkangg/portfolio_25March).
 
 🧪 [Second Version - LIVE](https://hanskkangport.netlify.app) | 🧪[First Version - LIVE](https://hanskang.netlify.app)
 - **Tech:**  Next.js, React, Node.js, Express.js, MongoDB, Tailwind CSS, Vercel
