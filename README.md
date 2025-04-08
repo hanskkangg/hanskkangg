@@ -93,6 +93,12 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - **Tech:** JavaScript, HTML/CSS, MongoDB, Azure Web App, GitHub Actions  
 - **Features:** Dynamic content fetching, CI/CD automation with Bash  
 
+### **6️⃣ Ottawa Delivery Sushi – Real-World Business Project**
+🔗 [Visit Delivery Sushi - LIVE](https://www.ottawadeliverysushi.com) 📁 Private Production Repo
+
+- **Tech:** PHP, JavaScript, jQuery, HTML, MySQL, Tailwind CSS, phpMyAdmin, XAMPP, HostGator, cPanel, AWS EC2, Jenkins
+- **Features:**CI/CD pipeline with Jenkins + GitHub + EC2, menu & tax (HST) updates, promotional banners, bug fixes, and performance optimization
+- **Impact:** Supports a food business locator for top-rated restaurants (4.5★+, 400+ reviews) with over 50 daily users
 ---
 
 
