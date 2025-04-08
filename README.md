@@ -105,7 +105,6 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 ## 👨‍💻 PREVIOUS EDUCATIONAL PROJECTS:
 
 ### **Web Development:**
-- 🌐 [Azure Web Apps](https://hansdevhub-cxa3cba5hmhdhyb0.canadacentral-01.azurewebsites.net/)
 - 🛍️ [Online Shopping Mall (HTML, CSS, JavaScript, PHP, MariaDB, XAMPP)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
 
 ### **Java Projects:**
