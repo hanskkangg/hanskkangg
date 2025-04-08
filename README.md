@@ -65,8 +65,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 ## 🏆 Key Projects:
 
 ### **1️⃣ AI-Powered PDF Translator**
-🔗 [Visit AI-Powered PDF Translator - LIVE](https://www.aisejong.com)  
-📁 [Visit Github Repo](https://github.com/hanskkangg/ai_wrapper_pdf_reader)
+🔗 [Visit AI-Powered PDF Translator - LIVE](https://www.aisejong.com) 📁 [Visit Github Repo](https://github.com/hanskkangg/ai_wrapper_pdf_reader)
 - **Tech:** Next.js, TypeScript, OpenAI API, Pinecone, PostgreSQL, Drizzle ORM, AWS S3  
 - **Features:** AI wrapper using GPT-4 Turbo, RAG-based context retrieval, optimized document storage  
 
@@ -78,8 +77,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - **Features:** Secure payments (Stripe, PayPal), admin dashboard, file uploads with Multer & Cloudinary  
 
 ### **3️⃣ Personal Blog**
-🔗 [Visit Personal Blog - LIVE](https://hans-blog-new-repo.onrender.com)  
-📁 [Visit Github Repo](https://github.com/hanskkangg/hans_blog_new_repo)
+🔗 [Visit Personal Blog - LIVE](https://hans-blog-new-repo.onrender.com) 📁 [Visit Github Repo](https://github.com/hanskkangg/hans_blog_new_repo)
 - **Tech:** React, Node.js, Express.js, Tailwind CSS, MongoDB, Firebase, Render, UptimeRobot  
 - **Features:** RBAC (Admin/User), Google Auth, JWT Authentication, Web3Forms for contact  
 
