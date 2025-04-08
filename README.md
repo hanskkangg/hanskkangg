@@ -79,9 +79,15 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 ### **3️⃣ Personal Blog**
 🔗 [Visit Personal Blog - LIVE](https://hans-blog-new-repo.onrender.com) 📁 [Visit Github Repo](https://github.com/hanskkangg/hans_blog_new_repo)
 - **Tech:** React, Node.js, Express.js, Tailwind CSS, MongoDB, Firebase, Render, UptimeRobot  
-- **Features:** RBAC (Admin/User), Google Auth, JWT Authentication, Web3Forms for contact  
+- **Features:** RBAC (Admin/User), Google Auth, JWT Authentication, Web3Forms for contact
+  
+### **4️⃣ Personal Portfolio Web site**
+🔗 Visit Portfolio - LIVE (https://hanskang.com/)  📁 [Visit Github Repo](https://github.com/hanskkangg/portfolio_25March)
+🧪 Second Version - LIVE (https://hanskkangport.netlify.app) | First Version - LIVE(https://hanskang.netlify.app/)
+- **Tech:**  Next.js, React, Node.js, Express.js, MongoDB, Tailwind CSS, Vercel
+- **Features:**  Responsive layout, dark mode, animations, project showcase, contact form, and CI/CD with Vercel
 
-### **4️⃣ CCNA Study Web App**
+### **5️⃣ CCNA Study Web App**
 🔗 [Visit CCNA Study Web App - LIVE](https://hansdevhub-cxa3cba5hmhdhyb0.canadacentral-01.azurewebsites.net/)  
 - **Tech:** JavaScript, HTML/CSS, MongoDB, Azure Web App, GitHub Actions  
 - **Features:** Dynamic content fetching, CI/CD automation with Bash  
