@@ -84,7 +84,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 ### **4️⃣ Personal Portfolio Web site**
 🔗 [Visit Portfolio - LIVE](https://hanskang.com) 📁 [Visit Github Repo](https://github.com/hanskkangg/portfolio_25March).
 
-🧪 [Second Version - LIVE](https://hanskkangport.netlify.app) | [First Version - LIVE](https://hanskang.netlify.app)
+🧪 [Second Version - LIVE](https://hanskkangport.netlify.app) | 🧪[First Version - LIVE](https://hanskang.netlify.app)
 - **Tech:**  Next.js, React, Node.js, Express.js, MongoDB, Tailwind CSS, Vercel
 - **Features:**  Responsive layout, dark mode, animations, project showcase, contact form, and CI/CD with Vercel
 
