@@ -94,7 +94,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - **Features:** Dynamic content fetching, CI/CD automation with Bash  
 
 ### **6️⃣ Ottawa Delivery Sushi – Real-World Business Project**
-🔗 [Visit Delivery Sushi - LIVE](https://www.ottawadeliverysushi.com) 📁 Private Production Repo
+🔗 [Visit Delivery Sushi - LIVE](https://www.ottawadeliverysushi.com) 📁  [Private GitHub Repository (ReadMe Only)](https://github.com/hanskkangg/OttawaDeliverySushi)
 
 - **Tech:** PHP, JavaScript, jQuery, HTML, MySQL, Tailwind CSS, phpMyAdmin, XAMPP, HostGator, cPanel, AWS EC2, Jenkins
 - **Features:** CI/CD pipeline with Jenkins + GitHub + EC2, menu & tax (HST) updates, promotional banners, bug fixes, and performance optimization
