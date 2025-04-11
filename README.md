@@ -100,7 +100,6 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - **Features:** CI/CD pipeline with Jenkins + GitHub + EC2, menu & tax (HST) updates, promotional banners, bug fixes, and performance optimization
 - **Impact:** Supports a food business locator for top-rated restaurants (4.5★+, 400+ reviews) with over 50 daily users
 
-### 👨‍💻 PREVIOUS EDUCATIONAL FULLSTACK PROJECT: 🛍️ [Online Shopping Mall (HTML, CSS, JavaScript, PHP, MariaDB, XAMPP)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
 ---
 
 ## 🧰 DevOps / SRE Scripts
@@ -121,6 +120,16 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 
 ---
 
+
+### 🔄 Render Keep-Alive Script  
+📁 [View Repository](https://github.com/hanskkangg/keep_alive)
+- **Tech Stack:** Bash, Git Bash (Windows), Task Scheduler  
+- **Summary:** Prevents Render-hosted sites from sleeping by sending periodic `curl` requests to keep services warm. Integrated with Windows Task Scheduler for 24/7 uptime pings.  
+- **Skills Demonstrated:**  Web uptime automation,Scheduled tasks,Custom scripting for DevOps tooling
+  
+---
+
+  
 ## 🤳 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hanskkang/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://hanskang.com/)  
