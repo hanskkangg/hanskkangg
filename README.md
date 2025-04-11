@@ -99,33 +99,26 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - **Tech:** PHP, JavaScript, jQuery, HTML, MySQL, Tailwind CSS, phpMyAdmin, XAMPP, HostGator, cPanel, AWS EC2, Jenkins
 - **Features:** CI/CD pipeline with Jenkins + GitHub + EC2, menu & tax (HST) updates, promotional banners, bug fixes, and performance optimization
 - **Impact:** Supports a food business locator for top-rated restaurants (4.5★+, 400+ reviews) with over 50 daily users
+
+ ## 👨‍💻 PREVIOUS EDUCATIONAL PROJECTS:
+- 🛍️ [Online Shopping Mall (HTML, CSS, JavaScript, PHP, MariaDB, XAMPP)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
 ---
 
+## 🧰 DevOps / SRE Projects
 
-## 👨‍💻 PREVIOUS EDUCATIONAL PROJECTS:
+### ⚙️ Azure Web App Deployment Script  
+📁 [Visit Repo](https://github.com/hanskkangg/azure_webapp_deploy_script)  
+- **Tech:** Azure CLI, Bash, Git  
+- **Summary:** Automates the deployment of static web applications to Azure using CLI commands and Git integration.  
+- **Skills Highlighted:** Scripting, CI/CD fundamentals, cloud deployment, Git automation  
 
-### **Web Development:**
-- 🛍️ [Online Shopping Mall (HTML, CSS, JavaScript, PHP, MariaDB, XAMPP)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
+---
 
-### **Java Projects:**
-- 🍽️ [Food Waste Reduction Platform](https://github.com/hanskkangg/java_food_waste_reduction_platform)
-- 🎓 [Student Enrollment Management System](https://github.com/hanskkangg/Student_Enrollment_Management_System)
-- 📚 [Library Management System](https://github.com/hanskkangg/library_management_system)
-- 🚗 [Vehicle Management System](https://github.com/hanskkangg/vehicle_management_system)
-- 🔧 [Java Miscellaneous Projects](https://github.com/hanskkangg/java_miscellaneous_project)
-
-### **Database Projects:**
-- 🎹 [Piano Tuning Service Appointment (SSMS, MySQL, Oracle, ODBC, MS Access)](https://github.com/hanskkangg/Database_Piano_Service)
-
-### **Database Analysis - Weka 3.8.6**
-- 🏥 [Breast Cancer Database Analysis](https://github.com/hanskkangg/Database_Analysis_Breast_Cancer)
-
-### **Machine Learning - RapidMiner Studio**
-- 🚢 [Survival Analysis of Titanic Passengers](https://github.com/hanskkangg/machine_learning_survival_of_titanic_passengers)
-- 🚦 [Ottawa Traffic Light Prediction](https://github.com/hanskkangg/machine_learning_ottawa_traffic_light)
-
-### **Linux & Bash Scripting**
-- 🖥️ [Bash Scripts & Automation](https://github.com/hanskkangg/Linux)
+### 🌐 Mesh Ping Network Diagnostic Tool  
+📁 [Visit Repo](https://github.com/hanskkangg/mesh_ping)  
+- **Tech:** Bash, Linux  
+- **Summary:** A Bash script that performs automated mesh ping operations between source and target hosts, logs the results, and highlights failures in red for quick diagnosis.  
+- **Skills Highlighted:** Network diagnostics, shell scripting, log parsing, systems operations
 
 ---
 
