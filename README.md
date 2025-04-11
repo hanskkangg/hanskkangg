@@ -104,7 +104,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 
 ## 🧰 DevOps / SRE Scripts
 
-### ⚙️ Azure Web App Deployment Script  
+### 1️⃣ Azure Web App Deployment Script  
 📁 [Visit Repo](https://github.com/hanskkangg/azure_webapp_deploy_script)  
 - **Tech:** Azure CLI, Bash, Git  
 - **Summary:** Automates the deployment of static web applications to Azure using CLI commands and Git integration.  
@@ -112,7 +112,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 
 ---
 
-### 🌐 Mesh Ping Network Diagnostic Tool  
+### 2️⃣ Mesh Ping Network Diagnostic Tool  
 📁 [Visit Repo](https://github.com/hanskkangg/mesh_ping)  
 - **Tech:** Bash, Linux  
 - **Summary:** A Bash script that performs automated mesh ping operations between source and target hosts, logs the results, and highlights failures in red for quick diagnosis.  
@@ -121,7 +121,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 ---
 
 
-### 🔄 Render Keep-Alive Script  
+### 3️⃣ Render Keep-Alive Script  
 📁 [View Repository](https://github.com/hanskkangg/keep_alive)
 - **Tech Stack:** Bash, Git Bash (Windows), Task Scheduler  
 - **Summary:** Prevents Render-hosted sites from sleeping by sending periodic `curl` requests to keep services warm. Integrated with Windows Task Scheduler for 24/7 uptime pings.  
