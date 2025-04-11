@@ -69,7 +69,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - **Tech:** Next.js, TypeScript, OpenAI API, Pinecone, PostgreSQL, Drizzle ORM, AWS S3  
 - **Features:** AI wrapper using GPT-4 Turbo, RAG-based context retrieval, optimized document storage  
 
-### **2️⃣ Freelance - E-commerce Websites**
+### **2️⃣ E-commerce Websites**
 🔗 [Visit Baeyond Nails - LIVE](https://baeyondfrontend.vercel.app/) 📁 [Visit Github Repo](https://github.com/hanskkangg/baeyond)
 
 🔗 [Visit OnPapier - LIVE](https://www.onpapier.com/) 📁 [Visit Github Repo](https://github.com/hanskkangg/E-Com)
