@@ -104,7 +104,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - 🛍️ [Online Shopping Mall (HTML, CSS, JavaScript, PHP, MariaDB, XAMPP)](https://github.com/hanskkangg/Web_Online_Shopping_Mall)
 ---
 
-## 🧰 DevOps / SRE Projects
+## 🧰 DevOps / SRE Scripts
 
 ### ⚙️ Azure Web App Deployment Script  
 📁 [Visit Repo](https://github.com/hanskkangg/azure_webapp_deploy_script)  
