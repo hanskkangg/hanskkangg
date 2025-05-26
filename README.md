@@ -77,7 +77,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - **Features:** Secure payments (Stripe, PayPal), admin dashboard, file uploads with Multer & Cloudinary  
 
 ### **3️⃣ Personal Blog**
-🔗 [Visit Personal Blog - LIVE](https://hans-blog-new-repo.onrender.com) 📁 [Visit Github Repo](https://github.com/hanskkangg/hans_blog_new_repo)
+🔗 [Visit Personal Blog - LIVE](https://hans-blog-new-repo-1cw3.onrender.com/) 📁 [Visit Github Repo](https://github.com/hanskkangg/hans_blog_new_repo)
 - **Tech:** React, Node.js, Express.js, Tailwind CSS, MongoDB, Firebase, Render, UptimeRobot  
 - **Features:** RBAC (Admin/User), Google Auth, JWT Authentication, Web3Forms for contact
   
