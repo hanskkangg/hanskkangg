@@ -137,8 +137,6 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 ---
 
 
-⚡ *Always open to collaborating on exciting new projects!*  
-
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
