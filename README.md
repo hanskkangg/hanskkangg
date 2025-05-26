@@ -9,7 +9,7 @@ I'm a trilingual (English, French - BBB Level, and native Korean) **Full-Stack D
 - 🎓 **Education:** Computer Programming - Algonquin College (GPA: 3.71 / Dean's Honor List)  
 - 🌍 **Based in:** Ottawa, Canada 🇨🇦  
 - 🚀 **Portfolio:** [Hans Kang Personal Portfolio](https://hanskang.com/)
-- 🚀 **Personal Blog:** [Hans Kang Personal Blog](https://hans-blog-new-repo.onrender.com/)  
+- 🚀 **Personal Blog:** [Hans Kang Personal Blog](https://hans-blog-new-repo-1cw3.onrender.com/)  
 - 🛠 **Currently Exploring:** AI development, cloud infrastructure, and automation  
 - 🌱 **Learning:** AI Wrappers, LLMs, Pinecone, and cloud-native applications  
 
